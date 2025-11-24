@@ -22,9 +22,9 @@ To run the pipeline:
 1. Download the files from the Zenodo record.
 2. Place all downloaded files under:
 
-   ```text
+```text
    data-preprocess/
-````
+```
 
 You may choose a different folder layout, but then you **must** update the dataset configuration JSON files and any hard-coded paths (see below).
 
