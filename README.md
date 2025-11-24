@@ -155,7 +155,7 @@ Check the comments and configuration at the top of `data-preprocess/nc2mat.py` a
 
 ---
 
-### 3. (Optional, ParaView) Convert `.mat` → VTK volumes
+### 3. (Optional, ParaView) Convert `.npz` → VTK volumes
 
 If you plan to visualize the full fields in ParaView, run:
 
