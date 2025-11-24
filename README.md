@@ -299,8 +299,8 @@ This step is optional and purely for interactive exploration and presentation; a
 
 The `GTD/` directory contains scripts and data for constructing / using ground-truth labels:
 
-* `GTD/ERA5-ground-truth.csv` – labels for ERA5 case studies.
-* `GTD/UKESM-ground-truth.py` – utilities for UKESM ground truth.
+* `GTD/ERA5-ground-truth.csv` – labels for ERA5 dataset.
+* `GTD/UKESM-ground-truth.csv` – labels for UKESM dataset.
 
 These can be used to:
 
