@@ -5,7 +5,7 @@ This repository provides the source code for detecting atmospheric blocking even
 The implementation accompanies the manuscript
 
 > **“Spatiotemporal Detection and Uncertainty Visualization of Atmospheric Blocking Events”**  
-> (manuscript under review)
+> in IEEE Transactions on Visualization and Copmuter Graphics, 2026
 
 The core pipeline is implemented in **Python**, with optional **ParaView** + **pvpython** scripts for 3D visual exploration.
 
@@ -27,6 +27,12 @@ To run the pipeline:
 ```
 
 You may choose a different folder layout, but then you **must** update the dataset configuration JSON files and any hard-coded paths (see below).
+
+---
+
+## Video demo
+
+A video demo for interaction with 3D temporal visualizations is available: <https://youtu.be/9ioYrPCWTSM>
 
 ---
 
@@ -362,11 +368,12 @@ To reproduce a full run for ERA5 or UKESM:
 If you use this code in your own work, please cite the underlying manuscript:
 
 ```bibtex
-@unpublished{Li2025AtmosBlocking,
+@article{Li2025AtmosBlocking,
   title  = {Spatiotemporal Detection and Uncertainty Visualization of Atmospheric Blocking Events},
-  author = {Li, Mingzhe and others},
-  year   = {2025},
-  note   = {Manuscript under review}
+  author = {Li, Mingzhe and Nowack, Peer and Wang, Bei},
+  year   = {2026},
+  note   = {to appear},
+  journal = {IEEE Transactions on Visualization and Computer Graphics}
 }
 ```
 
