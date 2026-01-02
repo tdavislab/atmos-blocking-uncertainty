@@ -4,8 +4,10 @@ This repository provides the source code for detecting atmospheric blocking even
 
 The implementation accompanies the manuscript
 
-> **“Spatiotemporal Detection and Uncertainty Visualization of Atmospheric Blocking Events”**  
-> in IEEE Transactions on Visualization and Copmuter Graphics, 2026
+> **Spatiotemporal Detection and Uncertainty Visualization of Atmospheric Blocking Events**
+> Mingzhe Li, Peer Nowack, Bei Wang
+> IEEE Pacific Visualization Symposium (PacificVis) TVCG Journal Track, accepted, 2026.
+> IEEE Transactions on Visualization and Copmuter Graphics, to appear, 2026
 
 The core pipeline is implemented in **Python**, with optional **ParaView** + **pvpython** scripts for 3D visual exploration.
 
