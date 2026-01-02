@@ -34,7 +34,7 @@ You may choose a different folder layout, but then you **must** update the datas
 
 ## Video demo
 
-A video demo for interaction with 3D temporal visualizations is available: <https://youtu.be/9ioYrPCWTSM>
+A video demo for interaction with 3D temporal visualizations is available: <https://youtu.be/JF8F4FB76wQ>
 
 ---
 
