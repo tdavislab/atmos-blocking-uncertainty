@@ -6,8 +6,8 @@ The implementation accompanies the manuscript
 
 > **Spatiotemporal Detection and Uncertainty Visualization of Atmospheric Blocking Events**  
 > Mingzhe Li, Peer Nowack, Bei Wang  
-> IEEE Pacific Visualization Symposium (PacificVis) TVCG Journal Track, accepted, 2026.  
-> IEEE Transactions on Visualization and Computer Graphics, to appear, 2026  
+> IEEE Pacific Visualization Symposium (PacificVis) TVCG Journal Track, 2026.  
+> IEEE Transactions on Visualization and Computer Graphics, 32(6): 4742-4752, 2026.
 
 The core pipeline is implemented in **Python**, with optional **ParaView** + **pvpython** scripts for 3D visual exploration.
 
@@ -374,11 +374,12 @@ If you use this code in your own work, please cite the underlying manuscript:
   title  = {Spatiotemporal Detection and Uncertainty Visualization of Atmospheric Blocking Events},
   author = {Li, Mingzhe and Nowack, Peer and Wang, Bei},
   year   = {2026},
-  note   = {to appear},
+  volume = {32},
+  number = {6},
+  pages = {4742-4752},
   journal = {IEEE Transactions on Visualization and Computer Graphics}
 }
 ```
 
-Update the bibliographic information once the paper is formally published.
 
 
